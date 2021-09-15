@@ -9,4 +9,5 @@ public class Excercise1 {
 
 class counter{
     int i = 1;
+    double paypay;
 }
